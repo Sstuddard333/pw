@@ -10,3 +10,4 @@ Select a link below to view projects and notes:
 ## Projects / Presentations
 * **[FIND A GENE Project](./Find-a-gene-pt.2.pdf)** — *(Coming soon / link to your next class file)*
 * **[Impact of Macronutrient Composition on Thermal Tolerance in Cellar Spiders](./
+* **[Mechanisms Regulating Leaf Fomration and Meristem Size in Arabidopsis Thaliana](./
