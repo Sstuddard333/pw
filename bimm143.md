@@ -1,5 +1,6 @@
 # Bioinformatics Class Projects
 My classwork from [BIMM143 at UC San Diego Spring 2026](https://bioboot.github.io/bimm143_S26/)
+[← Back to All Classes](./)
 
 ## Index of Material
 _Introductory Material_
